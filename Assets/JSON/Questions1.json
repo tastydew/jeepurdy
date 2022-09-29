@@ -1,0 +1,67 @@
+{
+    "Categories" : {
+        "CatOne" : "Mathematics",
+        "CatTwo" : "Video Games",
+        "CatThree" : "5/7 Memes",
+        "CatFour" : "TV Shows",
+        "CatFive" : "Movies",
+        "CatSix" : "Things that keep me from ending it all",
+        "CatSeven" : "Potent Potables",
+        "CatEight" : "Japan US Relations"
+    },
+
+    "Answers": [
+        { 
+            "CategoryID": "CatOne",
+            "AnswerValue": 400,
+            "AnswerText": "This is a question for Category CatOne"
+        },
+        {
+            "CategoryID": "CatOne",
+            "AnswerValue": 800,
+            "AnswerText": "This is a question for Category CatOne"
+        },
+        {
+            "CategoryID": "CatOne",
+            "AnswerValue": 1200,
+            "AnswerText": "This is a question for Category CatOne"
+        },
+        {
+            "CategoryID": "CatOne",
+            "AnswerValue": 1600,
+            "AnswerText": "This is a question for Category CatOne"
+        },
+        {
+            "CategoryID": "CatOne",
+            "AnswerValue": 2000,
+            "AnswerText": "This is a question for Category CatOne"
+        },
+        { 
+            "CategoryID": "CatTwo",
+            "AnswerValue": 400,
+            "AnswerText": "This is a question for Category CatTwo"
+        },
+        {
+            "CategoryID": "CatTwo",
+            "AnswerValue": 800,
+            "AnswerText": "This is a question for Category CatTwo"
+        },
+        {
+            "CategoryID": "CatTwo",
+            "AnswerValue": 1200,
+            "AnswerText": "This is a question for Category CatTwo"
+        },
+        {
+            "CategoryID": "CatTwo",
+            "AnswerValue": 1600,
+            "AnswerText": "This is a question for Category CatTwo"
+        },
+        {
+            "CategoryID": "CatTwo",
+            "AnswerValue": 2000,
+            "AnswerText": "This is a question for Category CatTwo"
+        }
+    ]
+        
+    
+}
